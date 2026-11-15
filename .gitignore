@@ -1,4 +1,5 @@
 node_modules/
+.portable/
 dist/
 dist-server/
 data/
