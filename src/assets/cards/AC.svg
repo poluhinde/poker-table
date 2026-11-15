@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" viewBox="0 0 210 315" width="210" height="315"><defs id="defs8693" />
+  <metadata id="metadata8696">
+    <rdf:RDF>
+      <ns2:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+        <ns2:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+      </ns2:Work>
+      <ns2:License rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <ns2:permits rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <ns2:permits rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <ns2:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </ns2:License>
+    </rdf:RDF>
+  </metadata>
+  <rect x=".5" y=".5" width="209" height="314" rx="15" fill="#fdfeee" stroke="#252525" stroke-width="1" /><g id="card-center" transform="translate(-69.952113 -104.928206) scale(1.666211)"><g id="layer1" transform="translate(-9.7665191e-4,954.89128)"><g id="clubAce" transform="translate(0,-6.4082031e-5)"><path style="fill:#010101;fill-opacity:1;stroke:#000000;stroke-width:0.977002;stroke-opacity:1" d="m 114.54863,-801.21201 c 0,0 10.50288,-8.4023 10.50288,-20.05062 0,-6.81906 -6.05405,-18.14008 -20.05053,-18.14008 -13.996473,0 -20.050525,11.32542 -20.050525,18.14008 0,11.64832 10.50288,20.05062 10.50288,20.05062 -11.666009,-9.08777 -32.463854,-2.88336 -32.463854,15.2789 0,9.09216 7.429392,19.0953 19.095305,19.0953 13.996469,0 20.050524,-15.2789 20.050524,-15.2789 0,0 1.77777,17.41484 -8.592429,26.737 h 22.916199 c -10.3702,-9.31766 -8.59252,-26.737 -8.59252,-26.737 0,0 6.05415,15.2789 20.05062,15.2789 11.67031,0 19.09531,-10.00753 19.09531,-19.0953 0,-18.16226 -20.79795,-24.36667 -32.46386,-15.2789 z" id="clubPip" />
+      </g></g></g><g class="card-index" fill="#010101"><text x="10" y="39" font-size="38" font-family="Arial, sans-serif" font-weight="500" letter-spacing="-1">A</text><g transform="translate(12 45)"><circle cx="10" cy="5" r="5" /><circle cx="5" cy="12" r="5" /><circle cx="15" cy="12" r="5" /><path d="M9 14Q10 22 5 24H15Q10 22 11 14Z" /></g></g><g class="card-index" fill="#010101" transform="rotate(180 105 157.5)"><text x="10" y="39" font-size="38" font-family="Arial, sans-serif" font-weight="500" letter-spacing="-1">A</text><g transform="translate(12 45)"><circle cx="10" cy="5" r="5" /><circle cx="5" cy="12" r="5" /><circle cx="15" cy="12" r="5" /><path d="M9 14Q10 22 5 24H15Q10 22 11 14Z" /></g></g></svg>

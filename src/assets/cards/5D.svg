@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" viewBox="0 0 210 315" width="210" height="315"><defs id="defs8693" />
+  <metadata id="metadata8696">
+    <rdf:RDF>
+      <ns2:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+        <ns2:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+      </ns2:Work>
+      <ns2:License rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <ns2:permits rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <ns2:permits rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <ns2:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </ns2:License>
+    </rdf:RDF>
+  </metadata>
+  <rect x=".5" y=".5" width="209" height="314" rx="15" fill="#fdfeee" stroke="#252525" stroke-width="1" /><g id="card-center" transform="translate(-36.863335 -55.758152) scale(1.359718)"><g id="layer1" transform="translate(-840.00112,639.89115)"><g id="diamond5"><path style="fill:#fe0000;fill-opacity:1;stroke:#000000;stroke-width:0.467135;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="use21335" d="m 923.14796,-551.91371 c -4.61086,-4.8098 -7.06401,-9.69798 -7.06401,-9.69798 0,0 -2.45315,4.88818 -7.06401,9.69798 -4.61302,4.80811 -10.36008,7.9357 -10.36008,7.9357 0,0 5.74706,3.12592 10.36008,7.93739 4.61086,4.80812 7.06401,9.6963 7.06401,9.6963 0,0 2.45315,-4.88818 7.06401,-9.6963 4.61302,-4.81147 10.36008,-7.93739 10.36008,-7.93739 0,0 -5.74706,-3.12759 -10.36008,-7.9357 z" />
+      <path style="fill:#fe0000;fill-opacity:1;stroke:#000000;stroke-width:0.467135;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="use21337" d="m 952.0651,-490.32683 c -4.61086,-4.8098 -7.06401,-9.69798 -7.06401,-9.69798 0,0 -2.45315,4.88818 -7.06401,9.69798 -4.61302,4.80811 -10.36008,7.9357 -10.36008,7.9357 0,0 5.74706,3.12591 10.36008,7.93739 4.61086,4.80812 7.06401,9.6963 7.06401,9.6963 0,0 2.45315,-4.88818 7.06401,-9.6963 4.61302,-4.81148 10.36008,-7.93739 10.36008,-7.93739 0,0 -5.74706,-3.12759 -10.36008,-7.9357 z" />
+      <path style="fill:#fe0000;fill-opacity:1;stroke:#000000;stroke-width:0.467135;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="use21339" d="m 909.0199,-413.68864 c 4.61086,4.8098 7.06401,9.69798 7.06401,9.69798 0,0 2.45315,-4.88818 7.06401,-9.69798 4.61302,-4.80811 10.36008,-7.9357 10.36008,-7.9357 0,0 -5.74706,-3.12592 -10.36008,-7.93739 -4.61086,-4.80812 -7.06401,-9.6963 -7.06401,-9.6963 0,0 -2.45315,4.88818 -7.06401,9.6963 -4.61302,4.81147 -10.36008,7.93739 -10.36008,7.93739 0,0 5.74706,3.12759 10.36008,7.9357 z" />
+      <path style="fill:#fe0000;fill-opacity:1;stroke:#000000;stroke-width:0.467135;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="use21353" d="m 979.64816,-552.41371 c -4.61086,-4.8098 -7.06401,-9.69798 -7.06401,-9.69798 0,0 -2.45315,4.88818 -7.06401,9.69798 -4.61302,4.80811 -10.36008,7.9357 -10.36008,7.9357 0,0 5.74706,3.12592 10.36008,7.93739 4.61086,4.80812 7.06401,9.6963 7.06401,9.6963 0,0 2.45315,-4.88818 7.06401,-9.6963 4.61302,-4.81147 10.36008,-7.93739 10.36008,-7.93739 0,0 -5.74706,-3.12759 -10.36008,-7.9357 z" />
+      <path style="fill:#fe0000;fill-opacity:1;stroke:#000000;stroke-width:0.467135;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="use21355" d="m 965.5201,-414.18864 c 4.61086,4.8098 7.06401,9.69798 7.06401,9.69798 0,0 2.45315,-4.88818 7.06401,-9.69798 4.61302,-4.80811 10.36008,-7.9357 10.36008,-7.9357 0,0 -5.74706,-3.12592 -10.36008,-7.93739 -4.61086,-4.80812 -7.06401,-9.6963 -7.06401,-9.6963 0,0 -2.45315,4.88818 -7.06401,9.6963 -4.61302,4.81147 -10.36008,7.93739 -10.36008,7.93739 0,0 5.74706,3.12759 10.36008,7.9357 z" />
+    </g></g></g><g class="card-index" fill="#fe0000"><text x="10" y="39" font-size="38" font-family="Arial, sans-serif" font-weight="500" letter-spacing="-1">5</text><g transform="translate(12 45)"><path d="M10 0L20 12L10 24L0 12Z" /></g></g><g class="card-index" fill="#fe0000" transform="rotate(180 105 157.5)"><text x="10" y="39" font-size="38" font-family="Arial, sans-serif" font-weight="500" letter-spacing="-1">5</text><g transform="translate(12 45)"><path d="M10 0L20 12L10 24L0 12Z" /></g></g></svg>

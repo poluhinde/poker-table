@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" viewBox="0 0 210 315" width="210" height="315"><defs id="defs8693" />
+  <metadata id="metadata8696">
+    <rdf:RDF>
+      <ns2:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+        <ns2:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+      </ns2:Work>
+      <ns2:License rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <ns2:permits rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <ns2:permits rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <ns2:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </ns2:License>
+    </rdf:RDF>
+  </metadata>
+  <rect x=".5" y=".5" width="209" height="314" rx="15" fill="#fdfeee" stroke="#252525" stroke-width="1" /><g id="card-center" transform="translate(-70.141261 -102.847174) scale(1.668012)"><g id="layer1" transform="translate(-9.7665191e-4,324.89098)"><g id="heartAce" transform="translate(-2.9802322e-8,1.3554363e-4)"><path style="fill:#fe0000;fill-opacity:1;stroke:#000000;stroke-width:1.06775;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="heartPip" d="m 124.28442,-210.10212 c -17.01202,0 -19.28344,15.95298 -19.28344,15.95298 0,0 -2.27141,-15.95298 -19.28343,-15.95298 -11.907891,0 -22.682696,7.15292 -22.682696,20.64667 0,17.82952 34.51269,35.75916 41.966126,61.93998 7.09234,-26.15888 41.96613,-44.11046 41.96613,-61.93998 0,-13.49375 -10.77481,-20.64667 -22.68269,-20.64667 z" />
+      </g></g></g><g class="card-index" fill="#fe0000"><text x="10" y="39" font-size="38" font-family="Arial, sans-serif" font-weight="500" letter-spacing="-1">A</text><g transform="translate(12 45)"><path d="M10 22C7 17 0 12 0 6C0 -1 8 -2 10 4C12 -2 20 -1 20 6C20 12 13 17 10 22Z" /></g></g><g class="card-index" fill="#fe0000" transform="rotate(180 105 157.5)"><text x="10" y="39" font-size="38" font-family="Arial, sans-serif" font-weight="500" letter-spacing="-1">A</text><g transform="translate(12 45)"><path d="M10 22C7 17 0 12 0 6C0 -1 8 -2 10 4C12 -2 20 -1 20 6C20 12 13 17 10 22Z" /></g></g></svg>

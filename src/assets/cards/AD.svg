@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" viewBox="0 0 210 315" width="210" height="315"><defs id="defs8693" />
+  <metadata id="metadata8696">
+    <rdf:RDF>
+      <ns2:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+        <ns2:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+      </ns2:Work>
+      <ns2:License rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <ns2:permits rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <ns2:permits rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <ns2:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </ns2:License>
+    </rdf:RDF>
+  </metadata>
+  <rect x=".5" y=".5" width="209" height="314" rx="15" fill="#fdfeee" stroke="#252525" stroke-width="1" /><g id="card-center" transform="translate(-77.016315 -109.213745) scale(1.693420)"><g id="layer1" transform="translate(-9.7665191e-4,639.89115)"><g id="diamondAce"><path d="m 124.24386,-500.97091 c -10.93867,-11.26115 -16.75847,-22.70581 -16.75847,-22.70581 0,0 -5.81979,11.44466 -16.758464,22.70581 -10.943815,11.25718 -24.577989,18.57978 -24.577989,18.57978 0,0 13.634174,7.31867 24.577989,18.58373 10.938674,11.25721 16.758464,22.70186 16.758464,22.70186 0,0 5.8198,-11.44465 16.75847,-22.70186 10.94382,-11.26506 24.57799,-18.58373 24.57799,-18.58373 0,0 -13.63417,-7.3226 -24.57799,-18.57978 z" id="diamondPip" style="fill:#fe0000;fill-opacity:1;stroke:#000000;stroke-width:1.10094;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g></g></g><g class="card-index" fill="#fe0000"><text x="10" y="39" font-size="38" font-family="Arial, sans-serif" font-weight="500" letter-spacing="-1">A</text><g transform="translate(12 45)"><path d="M10 0L20 12L10 24L0 12Z" /></g></g><g class="card-index" fill="#fe0000" transform="rotate(180 105 157.5)"><text x="10" y="39" font-size="38" font-family="Arial, sans-serif" font-weight="500" letter-spacing="-1">A</text><g transform="translate(12 45)"><path d="M10 0L20 12L10 24L0 12Z" /></g></g></svg>

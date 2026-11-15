@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" viewBox="0 0 210 315" width="210" height="315"><defs id="defs8693" />
+  <metadata id="metadata8696">
+    <rdf:RDF>
+      <ns2:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+        <ns2:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+      </ns2:Work>
+      <ns2:License rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <ns2:permits rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <ns2:permits rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <ns2:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </ns2:License>
+    </rdf:RDF>
+  </metadata>
+  <rect x=".5" y=".5" width="209" height="314" rx="15" fill="#fdfeee" stroke="#252525" stroke-width="1" /><g id="card-center" transform="translate(-39.788539 -60.157844) scale(1.389143)"><g id="layer1" transform="translate(-840.00112,324.89098)"><g id="heart5" transform="translate(0,1.6606121e-4)"><path d="m 924.63404,-245.59203 c -7.20515,0 -8.16717,6.74748 -8.16717,6.74748 0,0 -0.96202,-6.74748 -8.16717,-6.74748 -5.04338,0 -9.60687,3.02541 -9.60687,8.73273 0,7.54118 14.61726,15.1247 17.77404,26.19815 3.00384,-11.06417 17.77404,-18.65697 17.77404,-26.19815 0,-5.70732 -4.56349,-8.73273 -9.60687,-8.73273 z" id="use21701" style="fill:#fe0000;fill-opacity:1;stroke:#000000;stroke-width:0.45192;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path d="m 908.29918,-90.820362 c 7.20515,0 8.16717,-6.747478 8.16717,-6.747478 0,0 0.96202,6.747478 8.16717,6.747478 5.04338,0 9.60687,-3.025401 9.60687,-8.732722 0,-7.541176 -14.61726,-15.124706 -17.77404,-26.198156 -3.00384,11.06417 -17.77404,18.65698 -17.77404,26.198156 0,5.707321 4.56349,8.732722 9.60687,8.732722 z" id="use21705" style="fill:#fe0000;fill-opacity:1;stroke:#000000;stroke-width:0.45192;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path d="m 980.16032,-245.59203 c -7.20515,0 -8.16717,6.74748 -8.16717,6.74748 0,0 -0.96202,-6.74748 -8.16717,-6.74748 -5.04338,0 -9.60687,3.02541 -9.60687,8.73273 0,7.54118 14.61726,15.1247 17.77404,26.19815 3.00384,-11.06417 17.77404,-18.65697 17.77404,-26.19815 0,-5.70732 -4.56349,-8.73273 -9.60687,-8.73273 z" id="use21721" style="fill:#fe0000;fill-opacity:1;stroke:#000000;stroke-width:0.45192;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path d="m 963.82538,-90.820362 c 7.20515,0 8.16717,-6.747478 8.16717,-6.747478 0,0 0.96202,6.747478 8.16717,6.747478 5.04338,0 9.60687,-3.025401 9.60687,-8.732722 0,-7.541176 -14.61726,-15.124706 -17.77404,-26.198156 -3.00384,11.06417 -17.77404,18.65698 -17.77404,26.198156 0,5.707321 4.56349,8.732722 9.60687,8.732722 z" id="use21723" style="fill:#fe0000;fill-opacity:1;stroke:#000000;stroke-width:0.45192;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path d="m 953.16854,-185.16538 c -7.20515,0 -8.16717,6.74748 -8.16717,6.74748 0,0 -0.96202,-6.74748 -8.16717,-6.74748 -5.04338,0 -9.60687,3.0254 -9.60687,8.73273 0,7.54117 14.61726,15.1247 17.77404,26.19815 3.00384,-11.06417 17.77404,-18.65698 17.77404,-26.19815 0,-5.70733 -4.56349,-8.73273 -9.60687,-8.73273 z" id="use21747" style="fill:#fe0000;fill-opacity:1;stroke:#000000;stroke-width:0.45192;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g></g></g><g class="card-index" fill="#fe0000"><text x="10" y="39" font-size="38" font-family="Arial, sans-serif" font-weight="500" letter-spacing="-1">5</text><g transform="translate(12 45)"><path d="M10 22C7 17 0 12 0 6C0 -1 8 -2 10 4C12 -2 20 -1 20 6C20 12 13 17 10 22Z" /></g></g><g class="card-index" fill="#fe0000" transform="rotate(180 105 157.5)"><text x="10" y="39" font-size="38" font-family="Arial, sans-serif" font-weight="500" letter-spacing="-1">5</text><g transform="translate(12 45)"><path d="M10 22C7 17 0 12 0 6C0 -1 8 -2 10 4C12 -2 20 -1 20 6C20 12 13 17 10 22Z" /></g></g></svg>
